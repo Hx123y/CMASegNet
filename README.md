@@ -5,6 +5,20 @@ Code and result about CMASegNet<br>
 # Requirements
 Python 3.7, Cuda 10.2
 
+# Train
+To train it,
+
+    python train.py
+    
+
+
+# Implement Demo
+
+The path of dataset and the weight should be changed to your path.
+
+    python run_demo.py
+
+
 # Pretrained weights
 The weights used in the paper:https://pan.baidu.com/s/14KxVfv6dmNvAL8V-GKUzKA 
 提取码：5s3n
